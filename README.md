@@ -1,1 +1,0 @@
-This is Chris' First git Project!
